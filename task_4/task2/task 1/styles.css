@@ -1,0 +1,26 @@
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #9368b45b;
+    color: #8a0ecd;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #d17df9;
+    border: 1px solid #dddddd;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
